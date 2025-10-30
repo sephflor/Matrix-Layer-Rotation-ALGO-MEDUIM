@@ -1,1 +1,1 @@
-# Matrix-Layer-Rotation-ALGO-MEDUIM
+# Matrix-Layer-Rotation-ALGO-MEDUIM.The program extracts each layer of the matrix into a list, rotates it by r positions, then writes the rotated values back into the matrix layer by layer, finally printing the fully rotated matrix.
